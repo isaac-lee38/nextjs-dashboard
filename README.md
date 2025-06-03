@@ -1,2 +1,2 @@
 # nextjs-dashboard
-Learning NextJS with their template
+Learning NextJS with their template STEP by STEP
